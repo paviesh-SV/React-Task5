@@ -1,0 +1,129 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "iPhone 15",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://www.apple.com/v/iphone/home/bu/images/overview/select/iphone_15__fm75iyqlkjau_xlarge.png",
+            "images": [
+                "https://www.apple.com/v/iphone/home/bu/images/overview/select/iphone_15__fm75iyqlkjau_xlarge.png"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "iPhone 14",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://www.apple.com/v/iphone/home/bu/images/overview/select/iphone_14__cjgvgyn9cquu_xlarge.png",
+            "images": [
+                "https://www.apple.com/v/iphone/home/bu/images/overview/select/iphone_14__cjgvgyn9cquu_xlarge.png"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "iphone 15 PRO",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Iphone",
+            "category": "smartphones",
+            "thumbnail": "https://www.apple.com/v/iphone/home/bu/images/overview/select/iphone_15_pro__bpnjhcrxofqu_xlarge.png",
+            "images": [
+                "https://www.apple.com/v/iphone/home/bu/images/overview/select/iphone_15_pro__bpnjhcrxofqu_xlarge.png"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Ipad Air",
+            "description": "Latest Ipad Air",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "Apple",
+            "category": "Ipad",
+            "thumbnail": "https://www.apple.com/v/ipad/home/ck/images/overview/select/product-tile/pt_ipad_air__cr381zljqdiu_xlarge.png",
+            "images": [
+                "https://www.apple.com/v/ipad/home/ck/images/overview/select/product-tile/pt_ipad_air__cr381zljqdiu_xlarge.png"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Apple Watch",
+            "description": "Latest Apple Watch",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Watch",
+            "thumbnail": "https://www.apple.com/in/watch/images/overview/select/product_s9__b8uw2qgcgw1y_xlarge.png",
+            "images": [
+                "https://www.apple.com/in/watch/images/overview/select/product_s9__b8uw2qgcgw1y_xlarge.png"
+            ]
+        },
+
+        {
+            "id": 6,
+            "title": "Display",
+            "description": "Latest Apple display",
+            "price": 399,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Monitor",
+            "thumbnail": "https://www.apple.com/v/mac/home/by/images/overview/select/product_tile_studio_display__c0gbtkgtsx0m_large.png",
+            "images": [
+                "https://www.apple.com/v/mac/home/by/images/overview/select/product_tile_studio_display__c0gbtkgtsx0m_large.png"
+            ]
+        },
+
+        {
+            "id": 7,
+            "title": "Magic Mouse",
+            "description": "Latest Magic mouse",
+            "price": 199,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Mouse",
+            "thumbnail": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMMQ3?wid=532&hei=582&fmt=png-alpha&.v=1645138486301",
+            "images": [
+                "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMMQ3?wid=532&hei=582&fmt=png-alpha&.v=1645138486301"
+            ]
+        },
+
+        {
+            "id": 8,
+            "title": "Apple Watch SEs",
+            "description": "Limited Edition Apple Watch",
+            "price": 599,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Apple",
+            "category": "Watch",
+            "thumbnail": "https://www.apple.com/v/watch/bm/images/overview/select/product_se__frx4hb13romm_xlarge.png",
+            "images": [
+                "https://www.apple.com/v/watch/bm/images/overview/select/product_se__frx4hb13romm_xlarge.png"
+            ]
+        }
+
+        
+    ]
+}
